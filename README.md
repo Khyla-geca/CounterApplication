@@ -17,7 +17,7 @@ This second project as a full stack development student was indeed fun to build.
 
 #### Installation
 
-Project link: [Counter Project](https://khylageca-mycounter.netlify.app) or:
+Project link: [Counter Project](https://counterapps2i.netlify.app/) or:
 
 * Clone this repository to your desktop.
 * Open index.html in your browser.
