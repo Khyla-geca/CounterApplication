@@ -12,8 +12,10 @@ This second project as a full stack development student was indeed fun to build.
 
 ### Usage
 
-* Click on the "+" button to increment the value of the counter.
-* Click on the "-" button to decrement the value of the counter.
+* Press on the "+" button to increment the value of the counter.
+* Press on the "-" button to decrement the value of the counter.
+* Press on the "reset" button to reset the current value of the counter.
+
 
 #### Installation
 
