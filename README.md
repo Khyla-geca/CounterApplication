@@ -22,5 +22,5 @@ This second project as a full stack development student was indeed fun to build.
 Project link: [Counter](https://counterapps2i.netlify.app/) or:
 
 * Clone this repository to your desktop.
-* Open index.html in your browser.
+* Open index.html in your browser. 
 
